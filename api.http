@@ -13,4 +13,4 @@ GET http://192.168.15.48:8080/v2/api-docs
 GET http://192.168.15.48:8080/users/age/5
 
 ###
-GET http://192.168.15.48:8080/search
+GET http://192.168.15.48:8080/client/users
